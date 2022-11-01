@@ -1,4 +1,11 @@
+# Directories:
 .idea/
+dataset/
+wandb/
+
+# Files:
+poetry.lock
+*.tar.gz
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,pycharm,macos,linux
